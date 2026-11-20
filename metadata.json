@@ -1,0 +1,6 @@
+{
+  "name": "Dominate Search Engine Rankings — Elysium Academy Workshop",
+  "description": "Interactive simulated training application for the Elysium Academy Backlink Building for Beginners workshop, featuring live backlink checkers, link-quality labs, submission sandboxes, competitor link-gap analysis, a 30-day planner, and e-certificate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
